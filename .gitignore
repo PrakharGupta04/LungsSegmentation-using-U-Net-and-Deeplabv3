@@ -7,6 +7,7 @@ env/
 data/
 datasets/
 datasets_reduced_500/
+images_extra/
 
 # Checkpoints
 checkpoints/
