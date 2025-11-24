@@ -1,0 +1,28 @@
+# Virtual env
+Lungseg/
+venv/
+env/
+
+# Data
+data/
+datasets/
+datasets_reduced_500/
+
+# Checkpoints
+checkpoints/
+checkpoints_deeplab/
+*.pth
+*.pt
+
+# Outputs
+inference_results/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS & misc
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

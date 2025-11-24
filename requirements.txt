@@ -1,0 +1,10 @@
+torch
+torchvision
+tqdm
+numpy
+opencv-python
+albumentations
+scikit-learn
+pandas
+matplotlib
+timm   # optional, for EfficientNet/backbones
