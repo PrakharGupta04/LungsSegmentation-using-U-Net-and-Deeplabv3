@@ -74,11 +74,13 @@ Each **image** must have a matching **mask** file with the **same filename**.
 ### Creating a balanced dataset  
 Run:
 
-```bash
 python create_balanced_dataset.py \
     --dataset_root raw_dataset \
     --out_root data \
-    --target_per_class 500
+    --target_per_class 500 
+
+
+
 
 **#  Training the Models**
 Train U-Net
